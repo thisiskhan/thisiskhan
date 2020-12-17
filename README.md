@@ -5,8 +5,9 @@ I am [Raza Khna](https://instagram.com/thisisrazakhan), a passionate and creativ
  I love to create flutter applications I have a 1+ year of Experience in creating Flutter Application with clean architecture and Best Practice, Currently i am working on many freelancing projects
 🔭 I’m currently working on many projects through freelancing
 🌱 I’m currently learning ML
-📫 How to reach me: ...
-    ⦿ Shoot Me an [Email](mailto:onlyforprofessionaluse08@gmail.com) 💌 <br>
-    ⦿ Contact me on [LinkedIn](https://www.linkedin.com/in/thisisrazakhan) 👨🏻‍💻 <br>
+ 
+ ### 📫 How to reach me?
+  ⦿ Shoot Me an [Email](mailto:onlyforprofessionaluse08@gmail.com) 💌 <br>
+  ⦿ Contact me on [LinkedIn](https://www.linkedin.com/in/thisisrazakhan) 👨🏻‍💻 <br>
 
 
