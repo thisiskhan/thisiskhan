@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Raza Khan](https://instagram.com/thisisrazakhan)!
+### Hi there 👋 I am [Raza Khan](https://www.linkedin.com/in/thisisrazakhan/)!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 
