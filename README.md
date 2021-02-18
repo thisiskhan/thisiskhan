@@ -19,7 +19,7 @@ Get it on play store.
 <img alt="Get it on Google Play" width="200" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />	</a>
  
 ### 📫 How to reach me?
-  ⦿ Shoot Me an [Email](mailto:onlyforprofessionaluse08@gmail.com) 💌 <br>
+  ⦿ Shoot Me an [Email](mailto:rk6265766@gmail.com) 💌 <br>
   ⦿ Contact me on [LinkedIn](https://www.linkedin.com/in/thisisrazakhan) 👨🏻‍💻 <br>
 
 
