@@ -2,12 +2,13 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razakhan4772&theme=dark" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=razakhan4772&" alt="razakhan4772" />
-
 I am [Raza Khna](https://instagram.com/thisisrazakhan), a passionate and creative [flutetr](https://flutter.dev/) developer from 🇮🇳🇮🇳 
 I love to create flutter applications I have a 1+ year of Experience in creating Flutter Application with clean architecture and Best Practice,
 🔭 I’m currently working on many projects through freelancing 🌱 I’m currently learning ML
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razakhan4772&theme=dark" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=razakhan4772&" alt="razakhan4772" />
+
+
 
 
 
