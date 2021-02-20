@@ -9,8 +9,8 @@ I love to create flutter applications I have a 1+ year of Experience in creating
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razakhan4772&theme=dark" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=razakhan4772&" alt="razakhan4772" />
-[![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razakhan4772)](https://github.com/Razakhan4772/github-readme-stats)
 </div>
+[![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razakhan4772)](https://github.com/Razakhan4772/github-readme-stats)
 
 
 
