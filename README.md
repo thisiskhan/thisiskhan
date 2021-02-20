@@ -1,6 +1,6 @@
 ### Hi there 👋 I am [Raza Khan](https://www.linkedin.com/in/thisisrazakhan/)!
 <div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="razakhan4772" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=razakhan4772&label=Views&color=blue&style=plastic" alt="razakhan4772" />
 </div>
 
 I am [Raza Khna](https://instagram.com/thisisrazakhan), a passionate and creative [flutetr](https://flutter.dev/) developer from 🇮🇳🇮🇳 
