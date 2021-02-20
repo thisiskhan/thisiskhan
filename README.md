@@ -9,11 +9,12 @@ I love to create flutter applications I have a 1+ year of Experience in creating
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=razakhan4772&theme=dark" />
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=razakhan4772&" alt="razakhan4772" />
+[![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razakhan4772)](https://github.com/Razakhan4772/github-readme-stats)
 </div>
 
 
 
-[![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Razakhan4772)](https://github.com/Razakhan4772/github-readme-stats)
+
 
 <a href="https://play.google.com/store/apps/details?id=com.vc.vibeus&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
 <img alt="Get it on Google Play" width="200" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />	</a>
