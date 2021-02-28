@@ -13,7 +13,7 @@ I love to create flutter applications I have a 1+ year of Experience in creating
 </div>
 
 ![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=razakhan4772&show_icons=true&theme=dark)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=razakhan4772&hide_progress=true)(https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=razakhan4772&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
