@@ -23,8 +23,8 @@ I love to create flutter applications I have a 1+ year of Experience in creating
 
  
 ### 📫 How to reach me?
-  ⦿ Shoot Me an [Email](mailto:rk6265766@gmail.com) 💌 <br>
-  ⦿ Contact me on [LinkedIn](https://www.linkedin.com/in/thisisrazakhan) 👨🏻‍💻 <br>
-  ⦿ Visit my [Website](https://razakhan.netlify.app/) 
+  ⦿ Shoot Me an [Email](mailto:rk6265766@gmail.com)💌<br>
+  ⦿ Contact me on [LinkedIn](https://www.linkedin.com/in/thisisrazakhan)👨🏻‍💻<br>
+  ⦿ Visit my [Website](https://razakhan.netlify.app/)🌐<br>
 ### Made with ❤️ by [Raza Khan](https://razakhan.netlify.app)
 
