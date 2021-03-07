@@ -27,7 +27,7 @@ I love to create flutter applications I have a 1+ year of Experience in creating
   <br/>
     <summary>🚶‍♀️ Wakatime Week Stats</summary>
   <br/>
-  <a href="https://github.com/codebyrazakhan/github-readme-stats"><img alt="Raza Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=codebyrazakhan)](https://github.com/codebyrazakhan/github-readme-stats" /></a>
+  <a href="https://github.com/codebyrazakhan/github-readme-stats"><img alt="Raza Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=codebyrazakhan&layout=compact)](https://github.com/codebyrazakhan/github-readme-stats" /></a>
   <br/>
 <b><h3>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.</h3>
 
