@@ -3,13 +3,21 @@ I am [Raza Khna](https://razakhan.netlify.app), a passionate and creative [flute
 I love to create flutter applications I have a 1+ year of Experience in creating Flutter Application with clean architecture and Best Practice,
 🔭 I’m currently working on many projects through freelancing 🌱 I’m currently learning ML.
 
+## 🔥 My contribution streak
 
+<p align="center">
+  <a href="https://github.com/rjsamra/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyrazakhan#version3"/>
+  </a>
+</p>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/rjsamra?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
 <div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyrazakhan&theme=dark" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=codebyrazakhan&" alt="razakhan4772" />
+
 </div>
 
 ![Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=codebyrazakhan&show_icons=true&theme=dark)
