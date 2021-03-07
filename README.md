@@ -17,13 +17,13 @@ I love to create flutter applications I have a 1+ year of Experience in creating
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/rjsamra/github-readme-stats"><img alt="Rajkumar Samra's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rjsamra&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/codebyrazakhan/github-readme-stats"><img alt="Raza Khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codebyrazakhan&show_icons=true&count_private=true&hide=" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/rjsamra/github-readme-stats"><img alt="Rajkumar Samra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsamra&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/codebyrazakhan/github-readme-stats"><img alt="Raza Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyrazakhan&langs_count=10&layout=compact#" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
