@@ -11,7 +11,7 @@ I love to create flutter applications I have a 1+ year of Experience in creating
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/rjsamra?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/codebyrazakhan?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
 <div>
