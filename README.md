@@ -6,7 +6,7 @@ I love to create flutter applications I have a 1+ year of Experience in creating
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/rjsamra/github-readme-streak-stats">
+  <a href="https://github.com/codebyrazakhan/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyrazakhan#version3"/>
   </a>
 </p>
