@@ -28,10 +28,12 @@ I love to create [flutetr](https://flutter.dev/) applications I have a 1+ year o
 
 <b><h3>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.</h3>
 
-
-
-
-
+Share your photos and fun moments with friends you love
+Vibeus try to bring you close to people all around the world.
+Connect with people in a short time without any subscriptions🤗🤗.
+Vibeus has tons of features such as Exploring people around you, 
+Liking and disliking as per your choice, chatting once you are matched with the one you liked.
+### Get it on Google Play
 <a href="https://play.google.com/store/apps/details?id=com.vc.vibeus&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">
 <img alt="Get it on Google Play" width="200" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" />	</a>
 
