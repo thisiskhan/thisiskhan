@@ -6,7 +6,7 @@ I love to create [flutetr](https://flutter.dev/) applications I have a 1+ year o
 # 🛠️ Tech Stack
 - 🖥️ ``` Dart | Swift | objective-c | Python | c/c++ | ❤️Flutter❤️```
 - 🔨 ```Vs Code | Git | X-Code | Android Studio | ❤️Conda❤️```
-- ☁️ ```Firebase |MongoDB |MySQL | AWS```
+- ☁️ ```Firebase | MongoDB | MySQL | AWS```
 
 
  
