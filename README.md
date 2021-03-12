@@ -7,6 +7,7 @@ I love to create [flutetr](https://flutter.dev/) applications I have a 1+ year o
 - 🖥️ ``` Dart | Swift | objective-c | Python | c/c++ | ❤️Flutter❤️```
 - 🔨 ```Vs Code | Git | X-Code | Android Studio | ❤️Conda❤️```
 - ☁️ ```Firebase | MongoDB | MySQL | AWS```
+- I love ❤️ the Command ``` Conda acvtivate dic/env```
 
 
  
