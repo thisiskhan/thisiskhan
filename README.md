@@ -3,6 +3,12 @@ I am [Raza Khan](https://razakhan.netlify.app), a passionate and creative [flute
 I love to create [flutetr](https://flutter.dev/) applications I have a 1+ year of Experience in creating [flutetr](https://flutter.dev/) Application with clean architecture and Best Practice,
 🔭 I’m currently working on many projects through freelancing 🌱 ```I’m currently learning ML & Data science```.
 
+## 🛠️ Tech Stack
+ ⦿ 🖥️  Dart|Swift|objective-c|Python|c/c++|❤️Flutter❤️
+ ⦿ 🔨 Vs Code|Git|X-Code|Android Studio| ❤️Conda❤️
+ ⦿ ☁️ Firebase|MongoDB|MySQL|AWS
+ 
+
 ## 🔥 My contribution streak
 
 <p align="center">
