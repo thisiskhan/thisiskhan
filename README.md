@@ -4,13 +4,11 @@ I love to create [flutetr](https://flutter.dev/) applications I have a 1+ year o
 🔭 I’m currently working on many projects through freelancing 🌱 ```I’m currently learning ML & Data science```.
 
 ### 🛠️ Tech Stack
-  ⦿ Shoot Me an [Email](mailto:rk6265766@gmail.com) 💌 <br>
-  ⦿ Contact me on [LinkedIn](https://www.linkedin.com/in/thisisrazakhan) 👨🏻‍💻 <br>
-  ⦿ Visit my [Website](https://razakhan.netlify.app/) 🌐 <br>
-  ⦿ Raza Khan [Global Chat room](https://razakhanglobalroom.netlify.app/#/) 💬<br> 
-  ⦿  🖥️  Dart|Swift|objective-c|Python|c/c++|❤️Flutter❤️
-  ⦿  🔨 Vs Code|Git|X-Code|Android Studio| ❤️Conda❤️
-  ⦿  ☁️ Firebase|MongoDB|MySQL|AWS
+  ⦿ 🖥️  Dart|Swift|objective-c|Python|c/c++|❤️Flutter❤️
+  ⦿ 🔨 Vs Code|Git|X-Code|Android Studio| ❤️Conda❤️
+  ⦿ ☁️ Firebase|MongoDB|MySQL|AWS
+ 
+
  
 
 ## 🔥 My contribution streak
