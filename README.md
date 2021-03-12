@@ -2,7 +2,7 @@
 I am [Raza Khan](https://razakhan.netlify.app), a passionate and creative [flutetr](https://flutter.dev/) developer from 🇮🇳🇮🇳 
 I love to create [flutetr](https://flutter.dev/) applications I have a 1+ year of Experience in creating [flutetr](https://flutter.dev/) Application with clean architecture and Best Practice,
 🔭 I’m currently working on many projects through freelancing 🌱 ```I’m currently learning ML & Data science```.
-I love ❤️ the Command ``` Conda acvtivate dirc/env```
+I love ❤️ the Command ``` Conda activate dirc/env```
 
 # 🛠️ Tech Stack
 - 🖥️ ``` Dart | Swift | objective-c | Python | c/c++ | ❤️Flutter❤️```
