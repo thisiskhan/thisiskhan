@@ -5,9 +5,9 @@ I love ❤️ to create [flutetr](https://flutter.dev/) applications I have a 1+
 I love ❤️ the Command ``` Conda activate dirc/env```
 
 # 🛠️ Tech base
-- 🖥️ ``` Dart | Swift | objective-c | Python | c/c++ | ❤️Flutter❤️```
-- 🔨 ```Vs Code | Git | X-Code | Android Studio | ❤️Conda❤️```
-- ☁️ ```Firebase | MongoDB | MySQL | AWS```
+⦿  🖥️ ``` Dart | Swift | objective-c | Python | c/c++ | ❤️Flutter❤️```
+⦿  🔨 ```Vs Code | Git | X-Code | Android Studio | ❤️Conda❤️```
+⦿  ☁️ ```Firebase | MongoDB | MySQL | AWS```
 
 
 
