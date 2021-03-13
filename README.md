@@ -38,7 +38,7 @@ I love ❤️ the Command ``` Conda activate dirc/env```
   <a href="https://github.com/codebyrazakhan/github-readme-stats"><img alt="Raza Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyrazakhan&langs_count=10&layout=compact#" /></a>
   <br/>
 
-<b><h4>```Note:This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.```</h4>
+<b><h4>Note:This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.</h4>
 
 #### Vibeus
 ```
