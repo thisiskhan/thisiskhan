@@ -55,7 +55,7 @@ Liking and disliking as per your choice, chatting once you are matched with the 
 
  
 ### 📫 How to reach me?
-  ⦿ Shoot Me an [Email](mailto:rk6265766@gmail.com) 💌 <br>
+  ⦿ Shoot Me an [Email](mailto:thisisrazakhan8@gmail.com) 💌 <br>
   ⦿ Contact me on [LinkedIn](https://www.linkedin.com/in/thisisrazakhan) 👨🏻‍💻 <br>
   ⦿ Visit my [Website](https://razakhan.netlify.app/) 🌐 <br>
   ⦿ Raza Khan [Global Chat room](https://razakhanglobalroom.netlify.app/#/) 💬<br> 
