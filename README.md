@@ -1,6 +1,5 @@
 ### Hey there 👋 I am [Raza Khan](https://razakhan.netlify.app)!
 I am [Raza Khan](https://razakhan.netlify.app), a passionate and creative [flutter](https://flutter.dev/) developer from 🇮🇳🇮🇳 
- ```I’m currently learning ML & Data science```.
 I love ❤️ the Command ``` Conda activate dirc/env```
 
 # 🛠️ Tech base
