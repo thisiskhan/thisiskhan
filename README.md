@@ -1,7 +1,6 @@
 ### Hey there 👋 I am [Raza Khan](https://razakhan.netlify.app)!
 I am [Raza Khan](https://razakhan.netlify.app), a passionate and creative [flutter](https://flutter.dev/) developer from 🇮🇳🇮🇳 
-I love ❤️ to create [flutter](https://flutter.dev/) applications I have a 1+ year of Experience in creating [flutter](https://flutter.dev/) Application with clean architecture and Best Practice,
-🔭 I’m currently working on many projects through freelancing 🌱 ```I’m currently learning ML & Data science```.
+ ```I’m currently learning ML & Data science```.
 I love ❤️ the Command ``` Conda activate dirc/env```
 
 # 🛠️ Tech base
