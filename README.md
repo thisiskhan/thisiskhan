@@ -1,5 +1,5 @@
 ### Hey there 👋 I am [Raza Khan](https://razakhan.netlify.app)!
-I am [Raza Khan](https://razakhan.netlify.app), a passionate and creative [flutter](https://flutter.dev/) developer from 🇮🇳🇮🇳 
+I am [Raza Khan](https://razakhan.netlify.app), a passionate and creative [flutter](https://flutter.dev/) developer from 🇮🇳🇮🇳<br> 
 I love ❤️ the Command ``` Conda activate dirc/env```
 
 # 🛠️ Tech base
