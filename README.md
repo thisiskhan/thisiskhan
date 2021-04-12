@@ -7,16 +7,10 @@ I love ❤️ the Command ``` Conda activate dirc/env```
 - 🔨 ```Vs Code | Git | X-Code | Android Studio | ❤️Conda❤️```
 - ☁️ ```Firebase | MongoDB | MySQL | AWS```
 
-
-
- 
-
- 
-
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/codebyrazakhan/github-readme-streak-stats">
+  <a href="https://github.com/thisiskhan/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyrazakhan#version3"/>
   </a>
 </p>
