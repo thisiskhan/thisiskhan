@@ -11,7 +11,7 @@ I love ❤️ the Command ``` Conda activate dirc/env```
 
 <p align="center">
   <a href="https://github.com/thisiskhan/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyrazakhan#version3"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskhan#version3"/>
   </a>
 </p>
 
