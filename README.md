@@ -27,13 +27,13 @@ I love ❤️ the Command ``` Conda activate dirc/env```
 
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/codebyrazakhan/github-readme-stats"><img alt="Raza Khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codebyrazakhan&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/thisiskhan/github-readme-stats"><img alt="Raza Khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thisiskhan&show_icons=true&count_private=true&hide=" /></a>
 
 
 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/codebyrazakhan/github-readme-stats"><img alt="Raza Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyrazakhan&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/thisiskhan/github-readme-stats"><img alt="Raza Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskhan&langs_count=10&layout=compact#" /></a>
   <br/>
 
 <b><h4>Note: This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.</h4>
