@@ -52,7 +52,7 @@ Liking and disliking as per your choice, chatting once you are matched with the 
   ⦿ Visit my [Website](https://razakhan.netlify.app/) 🌐 <br>
   ⦿ Raza Khan [Global Chat room](https://razakhanglobalroom.netlify.app/#/) 💬<br> 
   ⦿ Raza Khan [Digital Card](https://cardfy-web.herokuapp.com/card/razakhan4772) 📇<br>
-  ⦿ [For some better Visualisation](https://profile-summary-for-github.com/user/Lt-razakhan)
+  ⦿ [For better Visualisation](https://profile-summary-for-github.com/user/Lt-razakhan)
 ### Made with ❤️ by [Raza Khan](https://razakhan.netlify.app) 
 
 
