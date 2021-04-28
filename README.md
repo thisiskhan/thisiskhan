@@ -10,24 +10,24 @@ I love ❤️ the Command ``` Conda activate dirc/env```
 ## 🔥 My contribution streak
 
 <p align="center">
-  <a href="https://github.com/Lt-razakhan/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lt-razakhan#version3"/>
+  <a href="https://github.com/thisiskhan/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisiskhan#version3"/>
   </a>
 </p>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/Lt-razakhan?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/thisiskhan?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
 
 
 
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/Lt-razakhan/github-readme-stats"><img alt="Raza Khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lt-razakhan&show_icons=true&count_private=true&hide=" /></a>
+  <a href="https://github.com/thisiskhan/github-readme-stats"><img alt="Raza Khan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thisiskhan&show_icons=true&count_private=true&hide=" /></a>
 
 
 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/Lt-razakhan/github-readme-stats"><img alt="Raza Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lt-razakhan&langs_count=10&layout=compact#" /></a>
+  <a href="https://github.com/Lt-razakhan/github-readme-stats"><img alt="Raza Khan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisiskhan&langs_count=10&layout=compact#" /></a>
   <br/>
 
 <b><h4>Note: This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.</h4>
@@ -52,7 +52,7 @@ Liking and disliking as per your choice, chatting once you are matched with the 
   ⦿ Visit my [Website](https://razakhan.netlify.app/) 🌐 <br>
   ⦿ Raza Khan [Global Chat room](https://razakhanglobalroom.netlify.app/#/) 💬<br> 
   ⦿ Raza Khan [Digital Card](https://cardfy-web.herokuapp.com/card/razakhan4772) 📇<br>
-  ⦿ [For better Visualisation](https://profile-summary-for-github.com/user/Lt-razakhan)
+  ⦿ [For better Visualisation](https://profile-summary-for-github.com/user/thisiskhan)
 ### Made with ❤️ by [Raza Khan](https://razakhan.netlify.app) 
 
 
