@@ -3,7 +3,7 @@ I am [Raza Khan](https://razakhan.netlify.app), a passionate and creative [flutt
 I love ❤️ the Command ``` Conda activate dirc/env```
 
 # 🛠️ Tech base
-- 🖥️ ``` Dart | Swift | objective-c | Python | c/c++ | ❤️Flutter❤️```
+- 🖥️ ``` Dart | Swift | objective-c |JavaScript| Python | c/c++ | ❤️Flutter❤️ | React | Angular```
 - 🔨 ```Vs Code | Git | X-Code | Android Studio | ❤️Conda❤️```
 - ☁️ ```Firebase | MongoDB | MySQL | AWS```
 
