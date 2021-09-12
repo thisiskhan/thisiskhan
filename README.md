@@ -51,7 +51,6 @@ Liking and disliking as per your choice, chatting once you are matched with the 
   ⦿ Contact me on [LinkedIn](https://www.linkedin.com/in/thisisrazakhan) 👨🏻‍💻 <br>
   ⦿ Visit my [Website](https://razakhan.netlify.app/) 🌐 <br>
   ⦿ Raza Khan [Global Chat room](https://razakhanglobalroom.netlify.app/#/) 💬<br> 
-  ⦿ Raza Khan [Digital Card](https://cardfy-web.herokuapp.com/card/razakhan4772) 📇<br>
   ⦿ [For better Visualisation](https://profile-summary-for-github.com/user/thisiskhan)
 ### Made with ❤️ by [Raza Khan](https://razakhan.netlify.app) 
 
